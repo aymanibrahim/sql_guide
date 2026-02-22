@@ -44,10 +44,10 @@ mysql -u root -p employees < setup/scratch_employees.sql
 
 ## Scratch employees Table Convention
 
-Challenges that mutate data (`INSERT`, `UPDATE`, `DELETE`) target **`employees.scratch_employees`**
- **`employees.scratch_employees`** is a lightweight copy that will not affect the canonical dataset. 
- Run `setup/scratch_employees.sql` once before these challenges
- Re-run it any time to reset.
+- Challenges that mutate data (`INSERT`, `UPDATE`, `DELETE`) target **`employees.scratch_employees`**
+-  **`employees.scratch_employees`** is a lightweight copy that will not affect the canonical dataset. 
+- Run `setup/scratch_employees.sql` once before these challenges
+- Re-run it any time to reset.
 
 ## Contributing
 
