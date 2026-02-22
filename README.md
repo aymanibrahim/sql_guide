@@ -3,7 +3,7 @@
 
 # Fundamentals
 
-01. [SELECT](./fundamentals/01_SELECT)
+01. [SELECT](./fundamentals/01_SELECT) | [Script](./fundamentals/01_SELECT/01_SELECT.sql) | [Results](./fundamentals/01_SELECT/RESULTS.md)
 
 ## Folder Structure
 
