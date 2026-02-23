@@ -4,6 +4,7 @@
 # Fundamentals
 
 01. [SELECT](./fundamentals/01_SELECT) | [Script](./fundamentals/01_SELECT/01_SELECT.sql) | [Results](./fundamentals/01_SELECT/RESULTS.md)
+02. [SELECT DISTINCT](./fundamentals/02_SELECT_DISTINCT) | [Script](./fundamentals/02_SELECT_DISTINCT/02_SELECT_DISTINCT.sql) | [Results](./fundamentals/02_SELECT_DISTINCT/RESULTS.md)
 
 ## Folder Structure
 
