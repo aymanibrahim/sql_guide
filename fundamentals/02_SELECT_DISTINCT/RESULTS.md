@@ -10,7 +10,7 @@ FROM titles;
 ```
 
 | title |
-| : |
+| :--- |
 | Senior Engineer |
 | Staff |
 | Engineer |
@@ -27,7 +27,7 @@ FROM employees;
 ```
 
 | gender |
-| : |
+| :--- |
 | M |
 | F |
 
@@ -41,7 +41,7 @@ FROM departments;
 ```
 
 | dept_name |
-| : |
+| :--- |
 | Customer Service |
 | Development |
 | Finance |
