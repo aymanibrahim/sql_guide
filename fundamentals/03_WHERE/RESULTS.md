@@ -35,7 +35,7 @@ WHERE hire_date > '1999-01-01';
 | 403335 | 1963-08-18 | Odinaldo | Famili | M | 1999-10-14 |
 | 403438 | 1961-09-20 | Yannis | Naudin | F | 1999-12-01 |
 
--- Show salaries greater than 120000 from salaries.
+## 2. Show salaries greater than 120000 from salaries.
 ```sql
 SELECT *
 FROM salaries
@@ -51,7 +51,7 @@ WHERE salary > 120000;
 | 42190 | 128241 | 1999-06-08 | 2000-06-07 |
 | 42190 | 130308 | 2000-06-07 | 2001-06-07 |
 
--- Show titles where title contains the word 'Engineer'.
+## 3. Show titles where title contains the word 'Engineer'.
 ```sql
 SELECT *
 FROM titles
@@ -67,7 +67,7 @@ WHERE title = 'Engineer';
 | 12662 | Engineer | 1994-08-27 | 9999-01-01 |
 | 12666 | Engineer | 1998-04-19 | 9999-01-01 |
 
--- Show employees with birth_date between 1960-01-01 and 1965-12-31.
+## 4. Show employees with birth_date between 1960-01-01 and 1965-12-31.
 ```sql
 SELECT *
 FROM employees
