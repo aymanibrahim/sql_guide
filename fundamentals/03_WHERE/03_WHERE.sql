@@ -1,6 +1,3 @@
-
-
-
 -- SQL WHERE
 
 USE employees;
