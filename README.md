@@ -7,6 +7,8 @@
 02. [SELECT DISTINCT](./fundamentals/02_SELECT_DISTINCT) | [Script](./fundamentals/02_SELECT_DISTINCT/02_SELECT_DISTINCT.sql) | [Results](./fundamentals/02_SELECT_DISTINCT/RESULTS.md)
 03. [WHERE](./fundamentals/03_WHERE) | [Script](./fundamentals/03_WHERE/03_WHERE.sql) | [Results](./fundamentals/03_WHERE/RESULTS.md)
 04. [ORDER BY](./fundamentals/04_ORDER_BY) | [Script](./fundamentals/04_ORDER_BY/04_ORDER_BY.sql) | [Results](./fundamentals/04_ORDER_BY/RESULTS.md)
+05. [AND](./fundamentals/05_AND) | [Script](./fundamentals/05_AND/05_AND.sql) | [Results](./fundamentals/05_AND/RESULTS.md)
+
 
 ## Folder Structure
 
