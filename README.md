@@ -9,6 +9,7 @@
 04. [ORDER BY](./fundamentals/04_ORDER_BY) | [Script](./fundamentals/04_ORDER_BY/04_ORDER_BY.sql) | [Results](./fundamentals/04_ORDER_BY/RESULTS.md)
 05. [AND](./fundamentals/05_AND) | [Script](./fundamentals/05_AND/05_AND.sql) | [Results](./fundamentals/05_AND/RESULTS.md)
 06. [OR](./fundamentals/06_OR) | [Script](./fundamentals/06_OR/06_OR.sql) | [Results](./fundamentals/06_OR/RESULTS.md)
+07. [NOT](./fundamentals/07_NOT) | [Script](./fundamentals/07_NOT/07_NOT.sql) | [Results](./fundamentals/07_NOT/RESULTS.md)
 
 
 ## Folder Structure
