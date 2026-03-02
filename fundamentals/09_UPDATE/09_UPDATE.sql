@@ -8,11 +8,14 @@ USE employees;
 
 
 -- 1. Update any one student_notes row to change note text.
+-- before UPDATE
+SELECT * FROM student_notes;
 
 UPDATE  student_notes
 SET note = NULL
 WHERE id = 2;
 
+-- after UPDATE
 SELECT * FROM student_notes;
 
 -- 2. Update all rows where note IS NULL to 'No note provided'.
