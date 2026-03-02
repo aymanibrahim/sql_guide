@@ -10,9 +10,10 @@ SELECT * FROM student_notes;
 
 | id | note | created_at |
 | :--- | :--- | :--- |
-| 1 | Finished the SQL WHERE clause exercises | 2026-03-02 08:12:43 |
-| 2 | No note provided | 2026-03-02 08:21:48 |
-| 3 | Reviewing SQL Logical Operators | 2026-03-02 08:21:48 |
+| 1 | Finished the SQL WHERE clause exercises | 2026-03-02 10:45:53 |
+| 2 | Modified: Finished SQL INSERT INTO statement | 2026-03-02 10:49:21 |
+| 3 | Reviewing SQL Logical Operators | 2026-03-02 10:49:21 |
+| 4 | No note provided | 2026-03-02 11:00:31 |
 
 ```sql
 DELETE FROM student_notes
@@ -26,8 +27,10 @@ SELECT * FROM student_notes;
 
 | id | note | created_at |
 | :--- | :--- | :--- |
-| 1 | Finished the SQL WHERE clause exercises | 2026-03-02 08:12:43 |
-| 3 | Reviewing SQL Logical Operators | 2026-03-02 08:21:48 |
+| 1 | Finished the SQL WHERE clause exercises | 2026-03-02 10:45:53 |
+| 2 | Modified: Finished SQL INSERT INTO statement | 2026-03-02 10:49:21 |
+| 3 | Reviewing SQL Logical Operators | 2026-03-02 10:49:21 |
+
 
 ## 2. Delete the latest row (max id) from student_notes.
 
@@ -44,4 +47,5 @@ SELECT * FROM student_notes;
 
 | id | note | created_at |
 | :--- | :--- | :--- |
-| 1 | Finished the SQL WHERE clause exercises | 2026-03-02 08:12:43 |
+| 1 | Finished the SQL WHERE clause exercises | 2026-03-02 10:45:53 |
+| 2 | Modified: Finished SQL INSERT INTO statement | 2026-03-02 10:49:21 |
