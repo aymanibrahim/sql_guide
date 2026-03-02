@@ -1,5 +1,3 @@
-
-
 -- SQL NULL VALUES  
 -- the sample employees DB rarely stores NULLs
 -- use the student_notes scratch table)
