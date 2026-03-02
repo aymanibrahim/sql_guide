@@ -12,7 +12,7 @@ USE employees;
 SELECT * FROM student_notes;
 
 UPDATE  student_notes
-SET note = NULL
+SET note = 'Modified: Finished SQL INSERT INTO statement'
 WHERE id = 2;
 
 -- after UPDATE
