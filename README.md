@@ -11,6 +11,7 @@
 06. [OR](./fundamentals/06_OR) | [Script](./fundamentals/06_OR/06_OR.sql) | [Results](./fundamentals/06_OR/RESULTS.md)
 07. [NOT](./fundamentals/07_NOT) | [Script](./fundamentals/07_NOT/07_NOT.sql) | [Results](./fundamentals/07_NOT/RESULTS.md)
 08. [INSERT INTO](./fundamentals/08_INSERT_INTO) | [Script](./fundamentals/08_INSERT_INTO/08_INSERT_INTO.sql) | [Results](./fundamentals/08_INSERT_INTO/RESULTS.md)
+09. [NULL VALUES](./fundamentals/09_NULL_VALUES) | [Script](./fundamentals/09_NULL_VALUES/09_NULL_VALUES.sql) | [Results](./fundamentals/09_NULL_VALUES/RESULTS.md)
 10. [UPDATE](./fundamentals/10_UPDATE) | [Script](./fundamentals/10_UPDATE/10_UPDATE.sql) | [Results](./fundamentals/10_UPDATE/RESULTS.md)
 11. [DELETE](./fundamentals/11_DELETE) | [Script](./fundamentals/11_DELETE/11_DELETE.sql) | [Results](./fundamentals/11_DELETE/RESULTS.md)
 
