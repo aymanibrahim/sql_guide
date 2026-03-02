@@ -1,10 +1,8 @@
--- SQL INSERT INTO  
--- Adding new records to a table.
+# SQL INSERT INTO  
+- Adding new records to a table.
 
-USE employees;
-
--- use a scratch table to avoid polluting the dataset
--- Create a personal scratch table
+### use a scratch table to avoid polluting the dataset
+### Create a personal scratch table
 
 ```sql
 CREATE TABLE IF NOT EXISTS student_notes (
@@ -13,7 +11,7 @@ CREATE TABLE IF NOT EXISTS student_notes (
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
 ```
 
--- 1. Insert one row into student_notes with a custom note.
+## 1. Insert one row into student_notes with a custom note.
 
 ```sql
 INSERT INTO student_notes (note)
@@ -25,7 +23,7 @@ SELECT * FROM student_notes;
 | :--- | :--- | :--- |
 | 1 | Finished the SQL WHERE clause exercises | 2026-03-02 08:12:43 |
 
--- 2. Insert two rows in a single statement into student_notes.
+## 2. Insert two rows in a single statement into student_notes.
 
 ```sql
 INSERT INTO student_notes (note)
