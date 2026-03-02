@@ -11,6 +11,7 @@
 06. [OR](./fundamentals/06_OR) | [Script](./fundamentals/06_OR/06_OR.sql) | [Results](./fundamentals/06_OR/RESULTS.md)
 07. [NOT](./fundamentals/07_NOT) | [Script](./fundamentals/07_NOT/07_NOT.sql) | [Results](./fundamentals/07_NOT/RESULTS.md)
 08. [INSERT INTO](./fundamentals/08_INSERT_INTO) | [Script](./fundamentals/08_INSERT_INTO/08_INSERT_INTO.sql) | [Results](./fundamentals/08_INSERT_INTO/RESULTS.md)
+09. [UPDATE](./fundamentals/09_UPDATE) | [Script](./fundamentals/09_UPDATE/09_UPDATE.sql) | [Results](./fundamentals/09_UPDATE/RESULTS.md)
 
 
 ## Folder Structure
