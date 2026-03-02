@@ -1,9 +1,3 @@
-
-
-
-
-
-
 -- SQL DELETE
 -- use the studen_notes scratch table
 
