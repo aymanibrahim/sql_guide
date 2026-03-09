@@ -14,6 +14,7 @@
 09. [NULL VALUES](./fundamentals/09_NULL_VALUES) | [Script](./fundamentals/09_NULL_VALUES/09_NULL_VALUES.sql) | [Results](./fundamentals/09_NULL_VALUES/RESULTS.md)
 10. [UPDATE](./fundamentals/10_UPDATE) | [Script](./fundamentals/10_UPDATE/10_UPDATE.sql) | [Results](./fundamentals/10_UPDATE/RESULTS.md)
 11. [DELETE](./fundamentals/11_DELETE) | [Script](./fundamentals/11_DELETE/11_DELETE.sql) | [Results](./fundamentals/11_DELETE/RESULTS.md)
+12. [LIMIT](./fundamentals/12_LIMIT) | [Script](./fundamentals/12_LIMIT/12_LIMIT.sql) | [Results](./fundamentals/12_LIMIT/RESULTS.md)
 
 ## Folder Structure
 
