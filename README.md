@@ -15,6 +15,7 @@
 10. [UPDATE](./fundamentals/10_UPDATE) | [Script](./fundamentals/10_UPDATE/10_UPDATE.sql) | [Results](./fundamentals/10_UPDATE/RESULTS.md)
 11. [DELETE](./fundamentals/11_DELETE) | [Script](./fundamentals/11_DELETE/11_DELETE.sql) | [Results](./fundamentals/11_DELETE/RESULTS.md)
 12. [LIMIT](./fundamentals/12_LIMIT) | [Script](./fundamentals/12_LIMIT/12_LIMIT.sql) | [Results](./fundamentals/12_LIMIT/RESULTS.md)
+13. [AGGREGATE FUNCTIONS](./fundamentals/13_AGGREGATE_FUNCTIONS) | [Script](./fundamentals/13_AGGREGATE_FUNCTIONS/13_AGGREGATE_FUNCTIONS.sql) | [Results](./fundamentals/13_AGGREGATE_FUNCTIONS/RESULTS.md)
 
 ## Folder Structure
 
