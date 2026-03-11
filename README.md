@@ -16,6 +16,7 @@
 11. [DELETE](./fundamentals/11_DELETE) | [Script](./fundamentals/11_DELETE/11_DELETE.sql) | [Results](./fundamentals/11_DELETE/RESULTS.md)
 12. [LIMIT](./fundamentals/12_LIMIT) | [Script](./fundamentals/12_LIMIT/12_LIMIT.sql) | [Results](./fundamentals/12_LIMIT/RESULTS.md)
 13. [AGGREGATE FUNCTIONS](./fundamentals/13_AGGREGATE_FUNCTIONS) | [Script](./fundamentals/13_AGGREGATE_FUNCTIONS/13_AGGREGATE_FUNCTIONS.sql) | [Results](./fundamentals/13_AGGREGATE_FUNCTIONS/RESULTS.md)
+14. [MIN and MAX](./fundamentals/14_MIN_MAX) | [Script](./fundamentals/14_MIN_MAX/14_MIN_MAX.sql) | [Results](./fundamentals/14_MIN_MAX/RESULTS.md)
 
 ## Folder Structure
 
