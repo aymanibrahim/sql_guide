@@ -1,7 +1,3 @@
-
-
-
-
 -- SQL COUNT
 
 USE employees;
