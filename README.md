@@ -18,6 +18,7 @@
 13. [AGGREGATE FUNCTIONS](./fundamentals/13_AGGREGATE_FUNCTIONS) | [Script](./fundamentals/13_AGGREGATE_FUNCTIONS/13_AGGREGATE_FUNCTIONS.sql) | [Results](./fundamentals/13_AGGREGATE_FUNCTIONS/RESULTS.md)
 14. [MIN and MAX](./fundamentals/14_MIN_MAX) | [Script](./fundamentals/14_MIN_MAX/14_MIN_MAX.sql) | [Results](./fundamentals/14_MIN_MAX/RESULTS.md)
 15. [COUNT](./fundamentals/15_COUNT) | [Script](./fundamentals/15_COUNT/15_COUNT.sql) | [Results](./fundamentals/15_COUNT/RESULTS.md)
+16. [SUM](./fundamentals/16_SUM) | [Script](./fundamentals/16_SUM/16_SUM.sql) | [Results](./fundamentals/16_SUM/RESULTS.md)
 
 ## Folder Structure
 
