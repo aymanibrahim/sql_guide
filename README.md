@@ -21,6 +21,11 @@
 16. [SUM](./fundamentals/16_SUM) | [Script](./fundamentals/16_SUM/16_SUM.sql) | [Results](./fundamentals/16_SUM/RESULTS.md)
 17. [AVG](./fundamentals/17_AVG) | [Script](./fundamentals/17_AVG/17_AVG.sql) | [Results](./fundamentals/17_AVG/RESULTS.md)
 
+# Advanced
+
+01. [Joins Basics](./advanced/01_JOINS) | [Script](./advanced/01_JOINS/01_JOINS.sql) | [Results](./advanced/01_JOINS/RESULTS.md)
+
+
 ## Folder Structure
 
 ```
