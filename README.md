@@ -24,6 +24,7 @@
 # Advanced
 
 01. [Joins Basics](./advanced/01_JOINS) | [Script](./advanced/01_JOINS/01_JOINS.sql) | [Results](./advanced/01_JOINS/RESULTS.md)
+02. [Aggregation + Join](./advanced/02_AGGREGATION_JOINS) | [Script](./advanced/02_AGGREGATION_JOINS/02_AGGREGATION_JOINS.sql) | [Results](./advanced/02_AGGREGATION_JOINS/RESULTS.md)
 
 
 ## Folder Structure
