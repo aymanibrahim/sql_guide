@@ -1,7 +1,5 @@
-
-
 # ORDER BY + LIMIT (Top-N patterns)
-- 
+- Identify the highest or lowest records by sorting data based on a specific metric and restricting the output to a defined number of rows.
 
 ## 1. Show the top 5 departments by headcount growth between 1995 and 2000.
 - Hint: count employees who had a dept_emp row active in 1995 vs. 2000 (treat overlap carefully), 
