@@ -1,6 +1,3 @@
-
-
-
 -- Data Quality / Sanity Checks 
 
 USE employees;
