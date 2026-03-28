@@ -1,8 +1,5 @@
-
-
-
 # Data Quality / Sanity Checks 
-- 
+- verify data integrity such as identifying duplicate active records or overlapping timeframes.
 
 ## 1. Verify there are no current employees with multiple current departments (should be rare).
 - Hint: group by emp_no on current dept_emp and check counts > 1.
