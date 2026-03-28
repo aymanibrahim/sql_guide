@@ -30,6 +30,7 @@
 05. [Top-N patterns](./advanced/05_TOP_N) | [Script](./advanced/05_TOP_N/05_TOP_N.sql) | [Results](./advanced/05_TOP_N/RESULTS.md)
 06. [Date Logic](./advanced/06_DATE_LOGIC) | [Script](./advanced/06_DATE_LOGIC/06_DATE_LOGIC.sql) | [Results](./advanced/06_DATE_LOGIC/RESULTS.md)
 07. [Data Quality](./advanced/07_DATA_QUALITY) | [Script](./advanced/07_DATA_QUALITY/07_DATA_QUALITY.sql) | [Results](./advanced/07_DATA_QUALITY/RESULTS.md)
+08. [LIKE](./advanced/08_LIKE) | [Script](./advanced/08_LIKE/08_LIKE.sql) | [Results](./advanced/08_LIKE/RESULTS.md)
 
 ## Folder Structure
 
