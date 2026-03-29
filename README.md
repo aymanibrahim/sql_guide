@@ -31,6 +31,7 @@
 06. [Date Logic](./advanced/06_DATE_LOGIC) | [Script](./advanced/06_DATE_LOGIC/06_DATE_LOGIC.sql) | [Results](./advanced/06_DATE_LOGIC/RESULTS.md)
 07. [Data Quality](./advanced/07_DATA_QUALITY) | [Script](./advanced/07_DATA_QUALITY/07_DATA_QUALITY.sql) | [Results](./advanced/07_DATA_QUALITY/RESULTS.md)
 08. [LIKE](./advanced/08_LIKE) | [Script](./advanced/08_LIKE/08_LIKE.sql) | [Results](./advanced/08_LIKE/RESULTS.md)
+09. [WILDCARDS](./advanced/09_WILDCARDS) | [Script](./advanced/09_WILDCARDS/09_WILDCARDS.sql) | [Results](./advanced/09_WILDCARDS/RESULTS.md)
 
 ## Folder Structure
 
