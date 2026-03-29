@@ -32,6 +32,7 @@
 07. [Data Quality](./advanced/07_DATA_QUALITY) | [Script](./advanced/07_DATA_QUALITY/07_DATA_QUALITY.sql) | [Results](./advanced/07_DATA_QUALITY/RESULTS.md)
 08. [LIKE](./advanced/08_LIKE) | [Script](./advanced/08_LIKE/08_LIKE.sql) | [Results](./advanced/08_LIKE/RESULTS.md)
 09. [WILDCARDS](./advanced/09_WILDCARDS) | [Script](./advanced/09_WILDCARDS/09_WILDCARDS.sql) | [Results](./advanced/09_WILDCARDS/RESULTS.md)
+10. [IN](./advanced/10_IN) | [Script](./advanced/10_IN/10_IN.sql) | [Results](./advanced/10_IN/RESULTS.md)
 
 ## Folder Structure
 
