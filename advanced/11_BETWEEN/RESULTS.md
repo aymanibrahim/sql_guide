@@ -1,5 +1,5 @@
 # SQL BETWEEN
-- 
+- filters the result set to include only values that fall within a specified range, inclusive of both the start and end values.
 
 ## 1. List employees born between 1960-01-01 and 1965-12-31.
 
