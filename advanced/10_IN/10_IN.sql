@@ -1,6 +1,3 @@
-
-
-
 -- SQL IN
 
 USE employees;
