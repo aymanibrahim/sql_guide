@@ -34,6 +34,7 @@
 09. [WILDCARDS](./advanced/09_WILDCARDS) | [Script](./advanced/09_WILDCARDS/09_WILDCARDS.sql) | [Results](./advanced/09_WILDCARDS/RESULTS.md)
 10. [IN](./advanced/10_IN) | [Script](./advanced/10_IN/10_IN.sql) | [Results](./advanced/10_IN/RESULTS.md)
 11. [BETWEEN](./advanced/11_BETWEEN) | [Script](./advanced/11_BETWEEN/11_BETWEEN.sql) | [Results](./advanced/11_BETWEEN/RESULTS.md)
+12. [ALIASES](./advanced/12_ALIASES) | [Script](./advanced/12_ALIASES/12_ALIASES.sql) | [Results](./advanced/12_ALIASES/RESULTS.md)
 
 ## Folder Structure
 
