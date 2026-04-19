@@ -1,4 +1,4 @@
--- SQL ALIASES
+-- SQL JOINS General
 
 USE employees;
 
