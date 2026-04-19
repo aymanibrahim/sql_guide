@@ -35,6 +35,7 @@
 10. [IN](./advanced/10_IN) | [Script](./advanced/10_IN/10_IN.sql) | [Results](./advanced/10_IN/RESULTS.md)
 11. [BETWEEN](./advanced/11_BETWEEN) | [Script](./advanced/11_BETWEEN/11_BETWEEN.sql) | [Results](./advanced/11_BETWEEN/RESULTS.md)
 12. [ALIASES](./advanced/12_ALIASES) | [Script](./advanced/12_ALIASES/12_ALIASES.sql) | [Results](./advanced/12_ALIASES/RESULTS.md)
+13. [JOINS General](./advanced/13_JOINS_GENERAL) | [Script](./advanced/13_JOINS_GENERAL/13_JOINS_GENERAL.sql) | [Results](./advanced/13_JOINS_GENERAL/RESULTS.md)
 
 ## Folder Structure
 
