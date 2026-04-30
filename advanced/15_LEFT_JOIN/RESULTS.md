@@ -2,8 +2,7 @@
 - returns all records from the left table and the matched records from the right table, 
 - filling in NULL values for the right side where no match exists.
 
-## 1. Show all employees and their department names 
-- (include employees who might not be currently assigned to a department).
+## 1. Show all employees and their department names (include employees who might not be currently assigned to a department).
 
 ```sql
 SELECT 
@@ -24,8 +23,7 @@ ON de.dept_no = d.dept_no;
 | Parto | Bamford | Production |
 | ... | ... | ... |
 
-## 2. Show all departments and their managers, 
-- but include departments even if they don’t have a current manager.
+## 2. Show all departments and their managers, but include departments even if they don’t have a current manager.
 
 ```sql
 SELECT
