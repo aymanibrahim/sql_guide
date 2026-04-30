@@ -3,8 +3,7 @@
 - filling in NULL values for the missing side whenever a match is not found.
 - since MySQL doesn’t support FULL JOIN directly, you can use UNION of LEFT + RIGHT
 
-## 1. Combine employees and departments to list all employees with their departments, 
-- but also include departments with no employees.
+## 1. Combine employees and departments to list all employees with their departments, but also include departments with no employees.
 
 ```sql
 SELECT 
@@ -37,8 +36,7 @@ ON de.dept_no = d.dept_no;
 | Aamer | Azevdeo | Customer Service |
 | ... | ... | ... |
 
-## 2. Show all employees and managers, 
-- including those employees who are not managers and departments without managers.
+## 2. Show all employees and managers, including those employees who are not managers and departments without managers.
 
 ```sql
 SELECT 
@@ -65,8 +63,7 @@ ON e.emp_no = dm.emp_no;
 | Aamer | Azevdeo |
 | ... | ... |
 
-## 3. Show all employees and their salary info, 
-- including employees without salary records and salary records without matching employees (test data case).
+## 3. Show all employees and their salary info, including employees without salary records and salary records without matching employees (test data case).
 
 ```sql
 SELECT 
