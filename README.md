@@ -39,6 +39,7 @@
 14. [INNER JOIN](./advanced/14_INNER_JOIN) | [Script](./advanced/14_INNER_JOIN/14_INNER_JOIN.sql) | [Results](./advanced/14_INNER_JOIN/RESULTS.md)
 15. [LEFT JOIN](./advanced/15_LEFT_JOIN) | [Script](./advanced/15_LEFT_JOIN/15_LEFT_JOIN.sql) | [Results](./advanced/15_LEFT_JOIN/RESULTS.md)
 16. [RIGHT JOIN](./advanced/16_RIGHT_JOIN) | [Script](./advanced/16_RIGHT_JOIN/16_RIGHT_JOIN.sql) | [Results](./advanced/16_RIGHT_JOIN/RESULTS.md)
+17. [FULL JOIN](./advanced/17_FULL_JOIN) | [Script](./advanced/17_FULL_JOIN/17_FULL_JOIN.sql) | [Results](./advanced/17_FULL_JOIN/RESULTS.md)
 
 ## Folder Structure
 
