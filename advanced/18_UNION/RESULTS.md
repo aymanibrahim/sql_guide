@@ -1,5 +1,5 @@
 # SQL UNION
-- 
+- combines the result sets of two or more SELECT statements into a single, distinct result set by stacking the rows vertically.
 
 ## 1. Write a query to show a combined list of all department names from the departments table and all distinct job titles from the titles table.
 
