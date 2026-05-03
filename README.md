@@ -42,6 +42,7 @@
 17. [FULL JOIN](./advanced/17_FULL_JOIN) | [Script](./advanced/17_FULL_JOIN/17_FULL_JOIN.sql) | [Results](./advanced/17_FULL_JOIN/RESULTS.md)
 18. [UNION](./advanced/18_UNION) | [Script](./advanced/18_UNION/18_UNION.sql) | [Results](./advanced/18_UNION/RESULTS.md)
 19. [UNION ALL](./advanced/19_UNION_ALL) | [Script](./advanced/19_UNION_ALL/19_UNION_ALL.sql) | [Results](./advanced/19_UNION_ALL/RESULTS.md)
+20. [GROUP BY](./advanced/20_GROUP_BY) | [Script](./advanced/20_GROUP_BY/20_GROUP_BY.sql) | [Results](./advanced/20_GROUP_BY/RESULTS.md)
 
 ## Folder Structure
 
