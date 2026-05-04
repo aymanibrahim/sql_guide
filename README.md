@@ -45,6 +45,7 @@
 20. [GROUP BY](./advanced/20_GROUP_BY) | [Script](./advanced/20_GROUP_BY/20_GROUP_BY.sql) | [Results](./advanced/20_GROUP_BY/RESULTS.md)
 21. [HAVING](./advanced/21_HAVING) | [Script](./advanced/21_HAVING/21_HAVING.sql) | [Results](./advanced/21_HAVING/RESULTS.md)
 22. [EXISTS](./advanced/22_EXISTS) | [Script](./advanced/22_EXISTS/22_EXISTS.sql) | [Results](./advanced/22_EXISTS/RESULTS.md)
+23. [ANY, ALL](./advanced/23_ANY_ALL) | [Script](./advanced/23_ANY_ALL/23_ANY_ALL.sql) | [Results](./advanced/23_ANY_ALL/RESULTS.md)
 
 ## Folder Structure
 
