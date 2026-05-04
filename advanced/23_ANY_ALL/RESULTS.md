@@ -1,5 +1,5 @@
 # SQL ANY, ALL
-- 
+- ANY returns true if the comparison matches at least one value in the result set, whereas ALL returns true only if the comparison matches every single value in the set.
 
 ## 1. Find employees whose current salary is greater than ANY current salary in the Sales department.
 
