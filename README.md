@@ -49,6 +49,7 @@
 24. [SELECT INTO](./advanced/24_SELECT_INTO) | [Script](./advanced/24_SELECT_INTO/24_SELECT_INTO.sql) | [Results](./advanced/24_SELECT_INTO/RESULTS.md)
 25. [INSERT INTO SELECT](./advanced/25_INSERT_INTO_SELECT) | [Script](./advanced/25_INSERT_INTO_SELECT/25_INSERT_INTO_SELECT.sql) | [Results](./advanced/25_INSERT_INTO_SELECT/RESULTS.md)
 26. [CASE](./advanced/26_CASE) | [Script](./advanced/26_CASE/26_CASE.sql) | [Results](./advanced/26_CASE/RESULTS.md)
+27. [NULL FUNCTIONS](./advanced/27_NULL_FUNCTIONS) | [Script](./advanced/27_NULL_FUNCTIONS/27_NULL_FUNCTIONS.sql) | [Results](./advanced/27_NULL_FUNCTIONS/RESULTS.md)
 
 ## Folder Structure
 
