@@ -53,6 +53,7 @@
 28. [STORED PROCEDURES](./advanced/28_STORED_PROCEDURES) | [Script](./advanced/28_STORED_PROCEDURES/28_STORED_PROCEDURES.sql) | [Results](./advanced/28_STORED_PROCEDURES/RESULTS.md)
 29. [COMMENTS](./advanced/29_COMMENTS) | [Script](./advanced/29_COMMENTS/29_COMMENTS.sql) | [Results](./advanced/29_COMMENTS/RESULTS.md)
 30. [OPERATORS](./advanced/30_OPERATORS) | [Script](./advanced/30_OPERATORS/30_OPERATORS.sql) | [Results](./advanced/30_OPERATORS/RESULTS.md)
+31. [VIEWS](./advanced/31_VIEWS) | [Script](./advanced/31_VIEWS/31_VIEWS.sql) | [Results](./advanced/31_VIEWS/RESULTS.md)
 
 ## Folder Structure
 
