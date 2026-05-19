@@ -1,7 +1,30 @@
 # SQL Guide
-> SQL challenges for deep dives to demonstrate fundamentals and advanced SQL.
+> SQL challenges for deep dives to demonstrate fundamental and advanced SQL.
 
-# Fundamentals
+## Project Structure
+
+```
+sql_guide/
+│
+├── README.md                          
+├── setup/
+│   └── scratch_employees.sql             
+├── fundamentals/                     
+│   ├── 01_SELECT
+│   │    ├── 01_SELECT.sql
+│   │    └── RESULTS.md
+│   ├── 02_SELECT_DISTINCT
+│   │ 
+│    
+└── advanced/                
+    ├── 01_JOINS
+    │    ├── 01_JOINS.sql
+    │    └── RESULTS.md
+    ├── 02_AGGREGATION_JOINS
+    │
+```
+
+# Fundamental SQL
 
 01. [SELECT](./fundamentals/01_SELECT) | [Script](./fundamentals/01_SELECT/01_SELECT.sql) | [Results](./fundamentals/01_SELECT/RESULTS.md)
 02. [SELECT DISTINCT](./fundamentals/02_SELECT_DISTINCT) | [Script](./fundamentals/02_SELECT_DISTINCT/02_SELECT_DISTINCT.sql) | [Results](./fundamentals/02_SELECT_DISTINCT/RESULTS.md)
@@ -21,7 +44,7 @@
 16. [SUM](./fundamentals/16_SUM) | [Script](./fundamentals/16_SUM/16_SUM.sql) | [Results](./fundamentals/16_SUM/RESULTS.md)
 17. [AVG](./fundamentals/17_AVG) | [Script](./fundamentals/17_AVG/17_AVG.sql) | [Results](./fundamentals/17_AVG/RESULTS.md)
 
-# Advanced
+# Advanced SQL
 
 01. [Joins Basics](./advanced/01_JOINS) | [Script](./advanced/01_JOINS/01_JOINS.sql) | [Results](./advanced/01_JOINS/RESULTS.md)
 02. [Aggregation + Join](./advanced/02_AGGREGATION_JOINS) | [Script](./advanced/02_AGGREGATION_JOINS/02_AGGREGATION_JOINS.sql) | [Results](./advanced/02_AGGREGATION_JOINS/RESULTS.md)
@@ -55,29 +78,6 @@
 30. [OPERATORS](./advanced/30_OPERATORS) | [Script](./advanced/30_OPERATORS/30_OPERATORS.sql) | [Results](./advanced/30_OPERATORS/RESULTS.md)
 31. [VIEWS](./advanced/31_VIEWS) | [Script](./advanced/31_VIEWS/31_VIEWS.sql) | [Results](./advanced/31_VIEWS/RESULTS.md)
 32. [WINDOW FUNCTIONS](./advanced/32_WINDOW_FUNCTIONS) | [Script](./advanced/32_WINDOW_FUNCTIONS/32_WINDOW_FUNCTIONS.sql) | [Results](./advanced/32_WINDOW_FUNCTIONS/RESULTS.md)
-
-## Folder Structure
-
-```
-sql_guide/
-│
-├── README.md                          
-├── setup/
-│   └── scratch_employees.sql             
-├── fundamentals/                     
-│   ├── 01_SELECT
-│   │    ├── 01_SELECT.sql
-│   │    └── RESULTS.md
-│   ├── 02_SELECT_DISTINCT
-│   │ 
-│    
-└── advanced/                
-    ├── 01_JOINS
-    │    ├── 01_JOINS.sql
-    │    └── RESULTS.md
-    ├── 02_AGGREGATION_JOINS
-    │
-```
 
 ### Quick Install
 
