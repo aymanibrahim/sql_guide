@@ -1,6 +1,14 @@
 # SQL Guide
 > SQL challenges for deep dives to demonstrate fundamental and advanced SQL.
 
+## Employees Sample Database Schema
+
+<p align="center">
+  <img src="employees-schema.png" />
+</p>
+
+[Employees Schema - MySQL](https://dev.mysql.com/doc/employee/en/sakila-structure.html)
+
 ## Project Structure
 
 ```
@@ -109,4 +117,4 @@ Pull requests welcome. Please open an issue first for significant structural cha
 ## License
 
 SQL Guide: MIT.  
-The `employees` sample database is © MySQL AB, distributed under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+[The `employees` sample database](https://dev.mysql.com/doc/employee/en/) is © MySQL AB, distributed under the Creative Commons Attribution-Share Alike 3.0 Unported license.
