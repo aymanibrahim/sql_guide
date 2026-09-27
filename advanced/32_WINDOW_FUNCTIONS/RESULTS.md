@@ -1,5 +1,5 @@
 # SQL WINDOW FUNCTIONS
-- 
+- perform calculations across a set of table rows related to the current row without grouping them into a single output row
 
 ## 1. For current salaries, show each employee’s salary and the department average as dept_avg using AVG() OVER (PARTITION BY dept_no).
 
