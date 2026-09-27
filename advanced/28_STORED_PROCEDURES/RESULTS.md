@@ -24,7 +24,7 @@ CALL sp_current_salary(10001);
 | :--- |
 | 88958 |
 
--- 2. Create sp_dept_headcount(dno CHAR(4)) → returns current headcount for that department.
+## 2. Create sp_dept_headcount(dno CHAR(4)) → returns current headcount for that department.
 
 ```sql
 DELIMITER $$
@@ -46,7 +46,7 @@ CALL sp_dept_headcount('d001');
 | :--- |
 | 14842 |
 
--- 3. Create sp_give_raise(dno CHAR(4), pct DECIMAL(5,2)) → increases current salaries in a department by pct percent (for practice; in real life avoid bulk UPDATE in a proc without a WHERE guard).
+## 3. Create sp_give_raise(dno CHAR(4), pct DECIMAL(5,2)) → increases current salaries in a department by pct percent (for practice; in real life avoid bulk UPDATE in a proc without a WHERE guard).
 
 ```sql
 DELIMITER $$
@@ -93,7 +93,7 @@ AND de.to_date = '9999-01-01'
 AND se.salary IS NOT NULL;
 ```
 
--- Before raise
+### Before raise
 
 | emp_no | first_name | last_name | dept_no | current_salary |
 | :--- | :--- | :--- | :--- | :--- |
@@ -103,7 +103,7 @@ AND se.salary IS NOT NULL;
 | 10020 | Mayuko | Warwick | d004 | 47241 |
 | 10024 | Suzette | Pettey | d004 | 97107 |
 
--- After raise
+###  After raise
 
 | emp_no | first_name | last_name | dept_no | new_salary |
 | :--- | :--- | :--- | :--- | :--- |
@@ -113,7 +113,7 @@ AND se.salary IS NOT NULL;
 | 10020 | Mayuko | Warwick | d004 | 49603 |
 | 10024 | Suzette | Pettey | d004 | 101962 |
 
--- 4. Create sp_hires_by_year(y INT) → lists employees hired in year y.
+## 4. Create sp_hires_by_year(y INT) → lists employees hired in year y.
 
 ```sql
 DELIMITER $$
@@ -145,7 +145,7 @@ CALL sp_hires_by_year(1990);
 | 499996 | Zito | Baaz | 1990-09-27 |
 
 
--- 5. Create sp_top_n_salaries(n INT) → prints the top n current salaries with names and departments.
+## 5. Create sp_top_n_salaries(n INT) → prints the top n current salaries with names and departments.
 
 ```sql
 DELIMITER $$
